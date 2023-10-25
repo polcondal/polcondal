@@ -1,5 +1,5 @@
-<a href="https://sequelize.org/">
-  <img title="Sequelize" src=https://imgur.com/N36TbQs.png width=100% height=5%>
+<a href="">
+  <img title="" src=https://imgur.com/N36TbQs.png width=100% height=5%>
 </a>
 
 <div align="center">
@@ -42,11 +42,11 @@ I'm Pole, a student doing student things.
   <img src=https://skillicons.dev/icons?i=js&theme=light>
 </a>
 
-<a title="HTML & CSS" href="https://sequelize.org/">
+<a title="HTML & CSS" href="">
   <img src=https://skillicons.dev/icons?i=css,html,&theme=light>
 </a>
 
-<a title="TypeScript" href="https://sequelize.org/">
+<a title="TypeScript" href="">
   <img src=https://skillicons.dev/icons?i=ts,&theme=light>
 </a>
 
@@ -68,11 +68,11 @@ I'm Pole, a student doing student things.
 
 *I am familiar developing with languages such as:*
 
-<a title="C#" href="https://sequelize.org/">
+<a title="C#" href="">
   <img src=https://skillicons.dev/icons?i=cs&theme=light>
 </a>
 
-<a title="PHP" href="https://sequelize.org/">
+<a title="PHP" href="">
   <img src=https://skillicons.dev/icons?i=php&theme=light>
 </a>
 
@@ -84,7 +84,7 @@ I'm Pole, a student doing student things.
 
 *Have had experience working with relational databases in MySQL:*
 
-<a title="MySQL" href="https://sequelize.org/">
+<a title="MySQL" href="">
   <img src=https://skillicons.dev/icons?i=mysql&theme=light>
 </a>
 
@@ -96,7 +96,7 @@ I'm Pole, a student doing student things.
 
 *System management & configuration skills in linux systems:*
 
-<a title="MySQL" href="https://sequelize.org/">
+<a title="MySQL" href="">
   <img src=https://skillicons.dev/icons?i=linux&theme=light>
 </a>
 
@@ -163,11 +163,11 @@ I'm Pole, a student doing student things.
   <img src=https://skillicons.dev/icons?i=docker&theme=light>
 </a>
 
-<a title="Postman" href="https://sequelize.org/">
+<a title="Postman" href="">
   <img src=https://skillicons.dev/icons?i=postman,=light>
 </a>
 
-<a title="Visual Studio & VSCode" href="https://sequelize.org/">
+<a title="Visual Studio & VSCode" href="">
   <img src=https://skillicons.dev/icons?i=visualstudio,vscode,=light>
 </a>
 
@@ -183,7 +183,7 @@ I'm Pole, a student doing student things.
   <img src=https://skillicons.dev/icons?i=linkedin&theme=dark>
 </a>
 
-<a title="My Discord" href="https://sequelize.org/">
+<a title="My Discord" href="">
   <img src=https://skillicons.dev/icons?i=discord&theme=dark>
 </a>
 
