@@ -1,5 +1,5 @@
-<a href="">
-  <img title="" src=https://imgur.com/N36TbQs.png width=100% height=5%>
+<a href="https://sequelize.org/">
+  <img title="Sequelize" src=https://imgur.com/N36TbQs.png width=100% height=5%>
 </a>
 
 <div align="center">
@@ -10,15 +10,19 @@ I'm Pole, a student doing student things.
 
 </div>
 
-### What i do
+### My portfolio: [kxnzen.me](https://kxnzen.me)
 
-- Im currently studying Web Development in <a href="https://gracia.lasalle.cat/">La Salle Gràcia. 🏫</a>
+### What i do:
+
+- Im currently studying Web Development in <a href="https://gracia.lasalle.cat/">La Salle Gràcia.</a> 🏫
 - Spending my free time learning new technologies. 💻
 - Expanding my knowledge and portfolio day by day. 📈
 
 <div align="center">
 
 ## Technologies & Skills
+
+I like to work in both sides of the stack, from the front-end to the back-end.
 
 **Here are some of the technologies & libraries I am familiar with:**
 
@@ -42,11 +46,11 @@ I'm Pole, a student doing student things.
   <img src=https://skillicons.dev/icons?i=js&theme=light>
 </a>
 
-<a title="HTML & CSS" href="">
+<a title="HTML & CSS" href="https://sequelize.org/">
   <img src=https://skillicons.dev/icons?i=css,html,&theme=light>
 </a>
 
-<a title="TypeScript" href="">
+<a title="TypeScript" href="https://sequelize.org/">
   <img src=https://skillicons.dev/icons?i=ts,&theme=light>
 </a>
 
@@ -68,11 +72,11 @@ I'm Pole, a student doing student things.
 
 *I am familiar developing with languages such as:*
 
-<a title="C#" href="">
+<a title="C#" href="https://sequelize.org/">
   <img src=https://skillicons.dev/icons?i=cs&theme=light>
 </a>
 
-<a title="PHP" href="">
+<a title="PHP" href="https://sequelize.org/">
   <img src=https://skillicons.dev/icons?i=php&theme=light>
 </a>
 
@@ -84,7 +88,7 @@ I'm Pole, a student doing student things.
 
 *Have had experience working with relational databases in MySQL:*
 
-<a title="MySQL" href="">
+<a title="MySQL" href="https://sequelize.org/">
   <img src=https://skillicons.dev/icons?i=mysql&theme=light>
 </a>
 
@@ -94,9 +98,9 @@ I'm Pole, a student doing student things.
 
 <div align="">
 
-*System management & configuration skills in linux systems:*
+*System management & configuration skills in linux systems ( Remote & Local ):*
 
-<a title="MySQL" href="">
+<a title="MySQL" href="https://sequelize.org/">
   <img src=https://skillicons.dev/icons?i=linux&theme=light>
 </a>
 
@@ -133,7 +137,6 @@ I'm Pole, a student doing student things.
 <a title="Blender" href="">
   <img src=https://skillicons.dev/icons?i=ps,figma&theme=light>
 </a>
-
 
 </div>
 
@@ -183,9 +186,9 @@ I'm Pole, a student doing student things.
   <img src=https://skillicons.dev/icons?i=linkedin&theme=dark>
 </a>
 
-<a title="My Discord" href="">
+<!-- <a title="My Discord" href="">
   <img src=https://skillicons.dev/icons?i=discord&theme=dark>
-</a>
+</a> -->
 
 <a title="My Instagram" href="https://www.instagram.com/polcondal553/">
   <img src=https://skillicons.dev/icons?i=instagram&theme=dark>
